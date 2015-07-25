@@ -17,10 +17,12 @@ http://lyrics.wikia.com/api.php?artist=Tom+Waits&song=time&fmt=json
 
 Pre-requisites
 --------------
-Android SDK min API 19
+Android SDK min version 18
 
-Android SDK target API 21.o
+Android SDK target version 22
 
-Min JAVA version 1.7
+JDK version 1.7
 
 Android Support Libraries
+
+Build tools version 22.0.1
