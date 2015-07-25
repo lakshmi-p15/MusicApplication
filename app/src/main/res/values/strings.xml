@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Application</string>
+
+    <string name="Enter">Enter song:</string>
+    <string name="action_settings">Settings</string>
+    <string name="string">Search</string>
+    <string name="lirics">Lyrics</string>
+
+</resources>
